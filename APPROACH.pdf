@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 6120 >>
+stream
+BT /F2 15 Tf 0.05 0.16 0.30 rg 54.0 740.0 Td (Approach Summary - Conversational SHL Assessment Recommender) Tj ET
+BT /F1 9.5 Tf 0.25 0.25 0.25 rg 54.0 722.0 Td (Submission for SHL AI Intern Assignment) Tj ET
+BT /F2 11 Tf 0.07 0.20 0.36 rg 54.0 698.0 Td (Design Choices) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 683.0 Td (- The solution is a stateless FastAPI service with GET /health and POST /chat. Each request carries the) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 671.5 Td (full conversation history, so the recommender reconstructs context without server-side session state.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 660.0 Td (This keeps behavior predictable under evaluator replay, short time limits, and deployment restarts.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 646.5 Td (- The agent flow is simple: scope guard, clarification policy, catalog retrieval, then recommendation,) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 635.0 Td (refinement, or comparison. It refuses non-SHL legal/compliance advice and prompt-injection style) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 623.5 Td (requests.) Tj ET
+BT /F2 11 Tf 0.07 0.20 0.36 rg 54.0 607.0 Td (Retrieval Setup) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 592.0 Td (- The catalog is generated from public SHL Individual Test Solutions data and stored locally in) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 580.5 Td (data/catalog.json. URLs are normalized to the required SHL product-catalog view format, and product) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 569.0 Td (categories are mapped to compact test type codes such as A, K, P, B, S, and C.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 555.5 Td (- This is a lightweight RAG-style setup: the service retrieves grounded catalog records first, then builds) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 544.0 Td (the answer only from those records. Retrieval combines scenario rules for common hiring patterns with) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 532.5 Td (token scoring over product names, type labels, and generated keywords.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 519.0 Td (- I avoided a live LLM dependency in the deployed runtime so the API does not need secrets, does not fail) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 507.5 Td (on model/API limits, and returns consistent schema-compliant responses.) Tj ET
+BT /F2 11 Tf 0.07 0.20 0.36 rg 54.0 491.0 Td (Prompt And Conversation Behavior) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 476.0 Td (- If a request is vague, the service asks one clarifying question. If enough role context is available, it) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 464.5 Td (returns 1-10 catalog-backed SHL recommendations with name, URL, and test_type. When constraints change,) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 453.0 Td (it updates the prior shortlist rather than restarting. When the user asks for comparison, it compares) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 441.5 Td (only named assessments found in the catalog.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 428.0 Td (- end_of_conversation is true only when the user clearly confirms or locks the shortlist; otherwise it) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 416.5 Td (remains false so the evaluator can continue the conversation.) Tj ET
+BT /F2 11 Tf 0.07 0.20 0.36 rg 54.0 400.0 Td (Evaluation Method) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 385.0 Td (- I replayed the 10 public sample conversations as regression targets and added scripts/smoke_test.py for) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 373.5 Td (fast checks. The tests cover vague-query clarification, graduate management recommendations, full-stack) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 362.0 Td (Java refinement, contact center language/accent clarification, legal/HIPAA refusal, and public catalog) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 350.5 Td (URL formatting.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 337.0 Td (- I measured retrieval quality by checking whether expected assessments appeared in the top recommendations) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 325.5 Td (for known scenarios. I measured recommendation relevance by manually comparing results against the role) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 314.0 Td (and constraints in each trace. I measured groundedness by ensuring every recommendation URL exists in the) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 302.5 Td (local catalog and uses the SHL catalog format.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 289.0 Td (- I measured response accuracy and effectiveness with schema validation, manual trace review, endpoint) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 277.5 Td (smoke tests against the deployed Render URL, and behavior checks for refinement, comparison, refusal, and) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 266.0 Td (clarification.) Tj ET
+BT /F2 11 Tf 0.07 0.20 0.36 rg 54.0 249.5 Td (What Did Not Work) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 234.5 Td (- The current SHL products page redirects away from the older catalog index, and the rendered page no) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 223.0 Td (longer exposes the old product table directly. A live scraper would be brittle, so I used a normalized) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 211.5 Td (local catalog built from public product data instead.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 198.0 Td (- A live LLM was also not necessary for the required behavior. Deterministic retrieval gave more stable) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 186.5 Td (evaluation behavior and removed the need for API keys during deployment.) Tj ET
+BT /F2 11 Tf 0.07 0.20 0.36 rg 54.0 170.0 Td (Deployment And Notes) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 155.0 Td (- Public base URL: https://shl-assessment-recommender-cjl9.onrender.com) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 141.5 Td (- The service is hosted on Render, so the free instance can have a cold-start delay after inactivity. GET) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 130.0 Td (/health and POST /chat were tested successfully on the deployed URL.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 54.0 116.5 Td (- Runtime LLM used: none. AI assistance used during implementation: OpenAI Codex/ChatGPT for scaffolding,) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 64.0 105.0 Td (debugging, and validation checks; final behavior was tested manually against the public traces.) Tj ET
+BT /F1 8 Tf 0.35 0.35 0.35 rg 54 28 Td (Page 1) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 5 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+6 0 obj
+<< /Type /Catalog /Pages 5 0 R >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000006326 00000 n 
+0000006462 00000 n 
+0000006521 00000 n 
+trailer
+<< /Size 7 /Root 6 0 R >>
+startxref
+6570
+%%EOF
