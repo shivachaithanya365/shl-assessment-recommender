@@ -2,6 +2,20 @@
 
 FastAPI service for the SHL AI Intern take-home assignment.
 
+## Live Deployment
+
+Public API:
+
+https://shl-assessment-recommender-cjl9.onrender.com
+
+Health check:
+
+https://shl-assessment-recommender-cjl9.onrender.com/health
+
+API docs:
+
+https://shl-assessment-recommender-cjl9.onrender.com/docs
+
 ## Endpoints
 
 - `GET /health` returns `{"status":"ok"}`
