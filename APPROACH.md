@@ -22,6 +22,8 @@ Retrieval combines two methods:
 
 This deliberately avoids a live LLM dependency. The evaluator can replay conversations quickly, and schema compliance is not affected by model drift or API limits.
 
+AI assistance was used for scaffolding, debugging, and validation checks; final behavior was tested manually against the public traces.
+
 ## Prompt/Agent Behavior
 
 The agent follows a conservative policy:
