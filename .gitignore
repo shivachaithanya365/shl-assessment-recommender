@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+uvicorn.log
+uvicorn.err.log
+.env
+.DS_Store
+index.html
+script.js
+styles.css
+INTERVIEW_NOTES.md

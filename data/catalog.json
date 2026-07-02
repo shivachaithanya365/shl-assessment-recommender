@@ -1,0 +1,7334 @@
+{
+  "source": "https://raw.githubusercontent.com/singhsourav0/SHL_Recommendation/main/rag_recommender/data/assessments.csv",
+  "products": [
+    {
+      "name": "Global Skills Development Report",
+      "source_name": "Global Skills Development Report",
+      "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+      "test_type": "D",
+      "type_codes": [
+        "D"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "audit",
+        "development",
+        "global",
+        "report",
+        "reskill",
+        "skills"
+      ]
+    },
+    {
+      "name": ".NET Framework 4.5",
+      "source_name": ".NET Framework 4.5",
+      "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "30",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        ".net",
+        "4.5",
+        "framework",
+        "knowledge",
+        "skills"
+      ]
+    },
+    {
+      "name": ".NET MVC (New)",
+      "source_name": ".NET MVC (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "17",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        ".net",
+        "knowledge",
+        "mvc",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": ".NET MVVM (New)",
+      "source_name": ".NET MVVM (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        ".net",
+        "knowledge",
+        "mvvm",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": ".NET WCF (New)",
+      "source_name": ".NET WCF (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        ".net",
+        "knowledge",
+        "new",
+        "skills",
+        "wcf"
+      ]
+    },
+    {
+      "name": ".NET WPF (New)",
+      "source_name": ".NET WPF (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        ".net",
+        "knowledge",
+        "new",
+        "skills",
+        "wpf"
+      ]
+    },
+    {
+      "name": ".NET XAML (New)",
+      "source_name": ".NET XAML (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        ".net",
+        "knowledge",
+        "new",
+        "skills",
+        "xaml"
+      ]
+    },
+    {
+      "name": "Accounts Payable (New)",
+      "source_name": "Accounts Payable (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accounts",
+        "knowledge",
+        "new",
+        "payable",
+        "skills"
+      ]
+    },
+    {
+      "name": "Accounts Payable Simulation (New)",
+      "source_name": "Accounts Payable Simulation (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accounts",
+        "new",
+        "payable",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Accounts Receivable (New)",
+      "source_name": "Accounts Receivable (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accounts",
+        "knowledge",
+        "new",
+        "receivable",
+        "skills"
+      ]
+    },
+    {
+      "name": "Accounts Receivable Simulation (New)",
+      "source_name": "Accounts Receivable Simulation (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accounts",
+        "new",
+        "receivable",
+        "simulation"
+      ]
+    },
+    {
+      "name": "ADO.NET (New)",
+      "source_name": "ADO.NET (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "ado.net",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Adobe Experience Manager (New)",
+      "source_name": "Adobe Experience Manager (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "17",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "adobe",
+        "experience",
+        "knowledge",
+        "manager",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Adobe Photoshop CC",
+      "source_name": "Adobe Photoshop CC",
+      "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "adobe",
+        "cc",
+        "knowledge",
+        "photoshop",
+        "skills"
+      ]
+    },
+    {
+      "name": "Aeronautical Engineering (New)",
+      "source_name": "Aeronautical Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "aeronautical",
+        "engineering",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering (New)",
+      "source_name": "Aerospace Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "aerospace",
+        "engineering",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Agile Software Development",
+      "source_name": "Agile Software Development",
+      "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7 minutes",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "agile",
+        "development",
+        "knowledge",
+        "skills",
+        "software"
+      ]
+    },
+    {
+      "name": "Agile Testing (New)",
+      "source_name": "Agile Testing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "agile",
+        "knowledge",
+        "new",
+        "skills",
+        "testing"
+      ]
+    },
+    {
+      "name": "AI Skills",
+      "source_name": "AI Skills",
+      "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "16",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "ai",
+        "behavior",
+        "personality",
+        "skills"
+      ]
+    },
+    {
+      "name": "Amazon Web Services (AWS) Development (New)",
+      "source_name": "Amazon Web Services (AWS) Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "amazon",
+        "aws",
+        "cloud",
+        "deployment",
+        "development",
+        "knowledge",
+        "new",
+        "services",
+        "skills",
+        "web"
+      ]
+    },
+    {
+      "name": "Android Development (New)",
+      "source_name": "Android Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "android",
+        "development",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Angular 6 (New)",
+      "source_name": "Angular 6 (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "angular",
+        "frontend",
+        "javascript",
+        "knowledge",
+        "new",
+        "skills",
+        "typescript"
+      ]
+    },
+    {
+      "name": "AngularJS (New)",
+      "source_name": "AngularJS (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "angularjs",
+        "frontend",
+        "javascript",
+        "knowledge",
+        "new",
+        "skills",
+        "typescript"
+      ]
+    },
+    {
+      "name": "Apache Hadoop (New)",
+      "source_name": "Apache Hadoop (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "apache",
+        "hadoop",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Apache Hadoop Extensions (New)",
+      "source_name": "Apache Hadoop Extensions (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "apache",
+        "extensions",
+        "hadoop",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Apache HBase (New)",
+      "source_name": "Apache HBase (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "apache",
+        "hbase",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Apache Hive (New)",
+      "source_name": "Apache Hive (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "apache",
+        "hive",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Apache Kafka (New)",
+      "source_name": "Apache Kafka (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "apache",
+        "kafka",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Apache Pig (New)",
+      "source_name": "Apache Pig (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "apache",
+        "knowledge",
+        "new",
+        "pig",
+        "skills"
+      ]
+    },
+    {
+      "name": "Apache Spark (New)",
+      "source_name": "Apache Spark (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "apache",
+        "knowledge",
+        "new",
+        "skills",
+        "spark"
+      ]
+    },
+    {
+      "name": "ASP .NET with C# (New)",
+      "source_name": "ASP .NET with C# (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        ".net",
+        "asp",
+        "c#",
+        "knowledge",
+        "new",
+        "skills",
+        "with"
+      ]
+    },
+    {
+      "name": "ASP.NET 4.5",
+      "source_name": "ASP.NET 4.5",
+      "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "30",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "4.5",
+        "asp.net",
+        "knowledge",
+        "skills"
+      ]
+    },
+    {
+      "name": "Assessment and Development Center Exercises",
+      "source_name": "Assessment and Development Center Exercises",
+      "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+      "test_type": "E",
+      "type_codes": [
+        "E"
+      ],
+      "duration": "Variable",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "assessment",
+        "center",
+        "development",
+        "exercises"
+      ]
+    },
+    {
+      "name": "Automata - Fix (New)",
+      "source_name": "Automata - Fix (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "max 20",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "automata",
+        "fix",
+        "new",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Automata - SQL (New)",
+      "source_name": "Automata - SQL (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "max 30",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "automata",
+        "data",
+        "database",
+        "new",
+        "relational",
+        "simulation",
+        "sql"
+      ]
+    },
+    {
+      "name": "Automata (New)",
+      "source_name": "Automata (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "max 45",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "automata",
+        "new",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Automata Data Science (New)",
+      "source_name": "Automata Data Science (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "max 60",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "automata",
+        "data",
+        "new",
+        "science",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Automata Data Science Pro (New)",
+      "source_name": "Automata Data Science Pro (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "max 60",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "automata",
+        "data",
+        "new",
+        "pro",
+        "science",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Automata Front End",
+      "source_name": "Automata Front End",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "30 minutes",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "automata",
+        "end",
+        "front",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Automata Pro (New)",
+      "source_name": "Automata Pro (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "max 60",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "automata",
+        "new",
+        "pro",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Automata Selenium",
+      "source_name": "Automata Selenium",
+      "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "60",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "automata",
+        "selenium",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Automation Anywhere RPA Development (New)",
+      "source_name": "Automation Anywhere RPA Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "anywhere",
+        "automation",
+        "development",
+        "knowledge",
+        "new",
+        "rpa",
+        "skills"
+      ]
+    },
+    {
+      "name": "Automotive Engineering (New)",
+      "source_name": "Automotive Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "automotive",
+        "engineering",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Basic Biology (New)",
+      "source_name": "Basic Biology (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "basic",
+        "biology",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Basic Computer Literacy (Windows 10) (New)",
+      "source_name": "Basic Computer Literacy (Windows 10) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "30",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "10",
+        "basic",
+        "computer",
+        "literacy",
+        "new",
+        "windows"
+      ]
+    },
+    {
+      "name": "Basic Statistics (New)",
+      "source_name": "Basic Statistics (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "analyst",
+        "basic",
+        "data",
+        "finance",
+        "knowledge",
+        "new",
+        "skills",
+        "statistics"
+      ]
+    },
+    {
+      "name": "Biochemistry (New)",
+      "source_name": "Biochemistry (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "biochemistry",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Biotech Lab Techniques (New)",
+      "source_name": "Biotech Lab Techniques (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "biotech",
+        "knowledge",
+        "lab",
+        "new",
+        "skills",
+        "techniques"
+      ]
+    },
+    {
+      "name": "BizTalk (New)",
+      "source_name": "BizTalk (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "16",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "biztalk",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Business Communication (adaptive)",
+      "source_name": "Business Communication (adaptive)",
+      "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "24",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "adaptive",
+        "business",
+        "communication",
+        "knowledge",
+        "skills"
+      ]
+    },
+    {
+      "name": "Business Communications",
+      "source_name": "Business Communications",
+      "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "35",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "business",
+        "communications",
+        "knowledge",
+        "skills"
+      ]
+    },
+    {
+      "name": "C Programming (New)",
+      "source_name": "C Programming (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "programming",
+        "skills"
+      ]
+    },
+    {
+      "name": "C# Programming (New)",
+      "source_name": "C# Programming (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "c#",
+        "knowledge",
+        "new",
+        "programming",
+        "skills"
+      ]
+    },
+    {
+      "name": "C++ Programming (New)",
+      "source_name": "C++ Programming (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "c++",
+        "knowledge",
+        "new",
+        "programming",
+        "skills"
+      ]
+    },
+    {
+      "name": "Cardiology and Diabetes Management (New)",
+      "source_name": "Cardiology and Diabetes Management (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "4",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "cardiology",
+        "diabetes",
+        "knowledge",
+        "management",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Ceramic Engineering (New)",
+      "source_name": "Ceramic Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "ceramic",
+        "engineering",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Chemical Engineering (New)",
+      "source_name": "Chemical Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "chemical",
+        "engineering",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Cisco AppDynamics (New)",
+      "source_name": "Cisco AppDynamics (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "appdynamics",
+        "cisco",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Civil Engineering (New)",
+      "source_name": "Civil Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "civil",
+        "engineering",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Cloud Computing (New)",
+      "source_name": "Cloud Computing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "cloud",
+        "computing",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "COBOL Programming (New)",
+      "source_name": "COBOL Programming (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "cobol",
+        "knowledge",
+        "new",
+        "programming",
+        "skills"
+      ]
+    },
+    {
+      "name": "Computer Science (New)",
+      "source_name": "Computer Science (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "computer",
+        "knowledge",
+        "new",
+        "science",
+        "skills"
+      ]
+    },
+    {
+      "name": "Contact Center Call Simulation (New)",
+      "source_name": "Contact Center Call Simulation (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "15",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "call",
+        "center",
+        "contact",
+        "customer",
+        "inbound",
+        "new",
+        "service",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Conversational Multichat Simulation",
+      "source_name": "Conversational Multichat Simulation",
+      "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "conversational",
+        "multichat",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Core Java (Advanced Level) (New)",
+      "source_name": "Core Java (Advanced Level) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "advanced",
+        "backend",
+        "core",
+        "developer",
+        "java",
+        "knowledge",
+        "level",
+        "new",
+        "programming",
+        "skills",
+        "software"
+      ]
+    },
+    {
+      "name": "Core Java (Entry Level) (New)",
+      "source_name": "Core Java (Entry Level) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "backend",
+        "core",
+        "developer",
+        "entry",
+        "java",
+        "knowledge",
+        "level",
+        "new",
+        "programming",
+        "skills",
+        "software"
+      ]
+    },
+    {
+      "name": "Count Out The Money",
+      "source_name": "Count Out The Money",
+      "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "count",
+        "money",
+        "out",
+        "the"
+      ]
+    },
+    {
+      "name": "CSS3 (New)",
+      "source_name": "CSS3 (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "css3",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Culinary Skills (New)",
+      "source_name": "Culinary Skills (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "culinary",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Customer Service Phone Simulation",
+      "source_name": "Customer Service Phone Simulation",
+      "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+      "test_type": "B,S",
+      "type_codes": [
+        "B",
+        "S"
+      ],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "center",
+        "contact",
+        "customer",
+        "judgment",
+        "phone",
+        "service",
+        "simulation",
+        "situational",
+        "sjt",
+        "support"
+      ]
+    },
+    {
+      "name": "Customer Service Phone Solution",
+      "source_name": "Customer Service Phone Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "30",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "center",
+        "contact",
+        "customer",
+        "phone",
+        "service",
+        "solution",
+        "support"
+      ]
+    },
+    {
+      "name": "Cyber Risk (New)",
+      "source_name": "Cyber Risk (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "cyber",
+        "knowledge",
+        "new",
+        "risk",
+        "skills"
+      ]
+    },
+    {
+      "name": "Data Entry (New)",
+      "source_name": "Data Entry (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "4",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "data",
+        "entry",
+        "new",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Data Entry Alphanumeric Split Screen - US",
+      "source_name": "Data Entry Alphanumeric Split Screen - US",
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "alphanumeric",
+        "data",
+        "entry",
+        "knowledge",
+        "screen",
+        "skills",
+        "split",
+        "us"
+      ]
+    },
+    {
+      "name": "Data Entry Numeric Split Screen - US",
+      "source_name": "Data Entry Numeric Split Screen - US",
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "data",
+        "entry",
+        "knowledge",
+        "numeric",
+        "screen",
+        "skills",
+        "split",
+        "us"
+      ]
+    },
+    {
+      "name": "Data Entry Ten Key Split Screen",
+      "source_name": "Data Entry Ten Key Split Screen",
+      "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "3",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "data",
+        "entry",
+        "key",
+        "knowledge",
+        "screen",
+        "skills",
+        "split",
+        "ten"
+      ]
+    },
+    {
+      "name": "Data Science (New)",
+      "source_name": "Data Science (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "14",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "data",
+        "knowledge",
+        "new",
+        "science",
+        "skills"
+      ]
+    },
+    {
+      "name": "Data Warehousing Concepts",
+      "source_name": "Data Warehousing Concepts",
+      "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "25",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "concepts",
+        "data",
+        "knowledge",
+        "skills",
+        "warehousing"
+      ]
+    },
+    {
+      "name": "Dependability and Safety Instrument (DSI)",
+      "source_name": "Dependability and Safety Instrument (DSI)",
+      "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "behavior",
+        "dependability",
+        "dsi",
+        "industrial",
+        "instrument",
+        "manufacturing",
+        "personality",
+        "plant",
+        "safety"
+      ]
+    },
+    {
+      "name": "Dermatology (New)",
+      "source_name": "Dermatology (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "3",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "dermatology",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Desktop Support (New)",
+      "source_name": "Desktop Support (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "desktop",
+        "knowledge",
+        "new",
+        "skills",
+        "support"
+      ]
+    },
+    {
+      "name": "Digital Advertising (New)",
+      "source_name": "Digital Advertising (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "advertising",
+        "digital",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Digital Readiness Development Report - IC",
+      "source_name": "Digital Readiness Development Report - IC",
+      "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "development",
+        "digital",
+        "ic",
+        "personality",
+        "readiness",
+        "report"
+      ]
+    },
+    {
+      "name": "Digital Readiness Development Report - Manager",
+      "source_name": "Digital Readiness Development Report - Manager",
+      "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "development",
+        "digital",
+        "manager",
+        "personality",
+        "readiness",
+        "report"
+      ]
+    },
+    {
+      "name": "Docker (New)",
+      "source_name": "Docker (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "cloud",
+        "container",
+        "devops",
+        "docker",
+        "knowledge",
+        "native",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Dojo (New)",
+      "source_name": "Dojo (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "dojo",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Drupal (New)",
+      "source_name": "Drupal (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "17",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "drupal",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "DSI v1.1 Interpretation Report",
+      "source_name": "DSI v1.1 Interpretation Report",
+      "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "dsi",
+        "interpretation",
+        "personality",
+        "report",
+        "v1.1"
+      ]
+    },
+    {
+      "name": "Econometrics (New)",
+      "source_name": "Econometrics (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "econometrics",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Economics (New)",
+      "source_name": "Economics (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "economics",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Electrical and Electronics Engineering (New)",
+      "source_name": "Electrical and Electronics Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "14",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "electrical",
+        "electronics",
+        "engineering",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Electrical Engineering (New)",
+      "source_name": "Electrical Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "electrical",
+        "engineering",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Electronics & Telecommunications Engineering (New)",
+      "source_name": "Electronics & Telecommunications Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "15",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "electronics",
+        "engineering",
+        "knowledge",
+        "new",
+        "skills",
+        "telecommunications"
+      ]
+    },
+    {
+      "name": "Electronics and Embedded Systems Engineering (New)",
+      "source_name": "Electronics and Embedded Systems Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "18",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "electronics",
+        "embedded",
+        "engineering",
+        "knowledge",
+        "new",
+        "skills",
+        "systems"
+      ]
+    },
+    {
+      "name": "Electronics and Semiconductor Engineering (New)",
+      "source_name": "Electronics and Semiconductor Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "electronics",
+        "engineering",
+        "knowledge",
+        "new",
+        "semiconductor",
+        "skills"
+      ]
+    },
+    {
+      "name": "English Comprehension (New)",
+      "source_name": "English Comprehension (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "0",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "comprehension",
+        "english",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Enterprise Java Beans (New)",
+      "source_name": "Enterprise Java Beans (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "4",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "backend",
+        "beans",
+        "developer",
+        "enterprise",
+        "java",
+        "knowledge",
+        "new",
+        "programming",
+        "skills",
+        "software"
+      ]
+    },
+    {
+      "name": "Enterprise Leadership Report 1.0",
+      "source_name": "Enterprise Leadership Report 1.0",
+      "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "1.0",
+        "behavior",
+        "enterprise",
+        "leadership",
+        "personality",
+        "report"
+      ]
+    },
+    {
+      "name": "Enterprise Leadership Report 2.0",
+      "source_name": "Enterprise Leadership Report 2.0",
+      "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "2.0",
+        "behavior",
+        "enterprise",
+        "leadership",
+        "personality",
+        "report"
+      ]
+    },
+    {
+      "name": "Entry Level Cashier Solution",
+      "source_name": "Entry Level Cashier Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "19",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "cashier",
+        "entry",
+        "level",
+        "solution"
+      ]
+    },
+    {
+      "name": "Entry Level Customer Serv - Retail & Contact Center",
+      "source_name": "Entry Level Customer Serv-Retail & Contact Center",
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+      "test_type": "P,C",
+      "type_codes": [
+        "P",
+        "C"
+      ],
+      "duration": "19",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "call",
+        "center",
+        "competencies",
+        "competency",
+        "contact",
+        "customer",
+        "entry",
+        "inbound",
+        "level",
+        "personality",
+        "retail",
+        "serv",
+        "service"
+      ]
+    },
+    {
+      "name": "Entry Level Customer Service (General) Solution",
+      "source_name": "Entry Level Customer Service (General) Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "14",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "center",
+        "contact",
+        "customer",
+        "entry",
+        "general",
+        "level",
+        "service",
+        "solution",
+        "support"
+      ]
+    },
+    {
+      "name": "Entry Level Hotel Front Desk Solution",
+      "source_name": "Entry Level Hotel Front Desk Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "desk",
+        "entry",
+        "front",
+        "hotel",
+        "level",
+        "solution"
+      ]
+    },
+    {
+      "name": "Entry Level Sales Solution",
+      "source_name": "Entry Level Sales Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "account",
+        "commercial",
+        "entry",
+        "level",
+        "sales",
+        "selling",
+        "solution"
+      ]
+    },
+    {
+      "name": "Entry Level Technical Support Solution",
+      "source_name": "Entry Level Technical Support Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "18",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "entry",
+        "level",
+        "solution",
+        "support",
+        "technical"
+      ]
+    },
+    {
+      "name": "ETL Testing (New)",
+      "source_name": "ETL Testing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "etl",
+        "knowledge",
+        "new",
+        "skills",
+        "testing"
+      ]
+    },
+    {
+      "name": "Executive Scenarios",
+      "source_name": "Executive Scenarios",
+      "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+      "test_type": "B",
+      "type_codes": [
+        "B"
+      ],
+      "duration": "Untimed",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "executive",
+        "judgment",
+        "scenarios",
+        "situational",
+        "sjt"
+      ]
+    },
+    {
+      "name": "Executive Scenarios Narrative Report",
+      "source_name": "Executive Scenarios Narrative Report",
+      "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+      "test_type": "B",
+      "type_codes": [
+        "B"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "executive",
+        "judgment",
+        "narrative",
+        "report",
+        "scenarios",
+        "situational",
+        "sjt"
+      ]
+    },
+    {
+      "name": "Executive Scenarios Profile Report",
+      "source_name": "Executive Scenarios Profile Report",
+      "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+      "test_type": "B",
+      "type_codes": [
+        "B"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "executive",
+        "judgment",
+        "profile",
+        "report",
+        "scenarios",
+        "situational",
+        "sjt"
+      ]
+    },
+    {
+      "name": "ExpressJS (New)",
+      "source_name": "ExpressJS (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "expressjs",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Filing - Names (R1)",
+      "source_name": "Filing - Names (R1)",
+      "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "3",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "filing",
+        "knowledge",
+        "names",
+        "r1",
+        "skills"
+      ]
+    },
+    {
+      "name": "Filing - Numbers",
+      "source_name": "Filing - Numbers",
+      "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "3",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "filing",
+        "knowledge",
+        "numbers",
+        "skills"
+      ]
+    },
+    {
+      "name": "Financial Accounting (New)",
+      "source_name": "Financial Accounting (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accounting",
+        "analyst",
+        "finance",
+        "financial",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Financial and Banking Services (New)",
+      "source_name": "Financial and Banking Services (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "banking",
+        "financial",
+        "knowledge",
+        "new",
+        "services",
+        "skills"
+      ]
+    },
+    {
+      "name": "Fire Engineering (New)",
+      "source_name": "Fire Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "fire",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Following Instructions v1 - UK (R1)",
+      "source_name": "Following Instructions v1 - UK (R1)",
+      "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "following",
+        "instructions",
+        "knowledge",
+        "r1",
+        "skills",
+        "uk",
+        "v1"
+      ]
+    },
+    {
+      "name": "Following Instructions v1 - US (R2)",
+      "source_name": "Following Instructions v1 - US (R2)",
+      "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "following",
+        "instructions",
+        "knowledge",
+        "r2",
+        "skills",
+        "us",
+        "v1"
+      ]
+    },
+    {
+      "name": "Food and Beverage Services (New)",
+      "source_name": "Food and Beverage Services (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "beverage",
+        "food",
+        "knowledge",
+        "new",
+        "services",
+        "skills"
+      ]
+    },
+    {
+      "name": "Food Science (New)",
+      "source_name": "Food Science (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "food",
+        "knowledge",
+        "new",
+        "science",
+        "skills"
+      ]
+    },
+    {
+      "name": "Front Office Management (New)",
+      "source_name": "Front Office Management (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "front",
+        "knowledge",
+        "management",
+        "new",
+        "office",
+        "skills"
+      ]
+    },
+    {
+      "name": "Fundamentals of Chemistry (New)",
+      "source_name": "Fundamentals of Chemistry (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "chemistry",
+        "fundamentals",
+        "knowledge",
+        "new",
+        "of",
+        "skills"
+      ]
+    },
+    {
+      "name": "Fundamentals of Physics (New)",
+      "source_name": "Fundamentals of Physics (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "fundamentals",
+        "knowledge",
+        "new",
+        "of",
+        "physics",
+        "skills"
+      ]
+    },
+    {
+      "name": "General Diseases (New)",
+      "source_name": "General Diseases (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "diseases",
+        "general",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Geoinformatics Engineering (New)",
+      "source_name": "Geoinformatics Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "geoinformatics",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Geoscience Engineering (New)",
+      "source_name": "Geoscience Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "geoscience",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "GIT (New)",
+      "source_name": "GIT (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "git",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Global Skills Assessment",
+      "source_name": "Global Skills Assessment",
+      "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "16",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "assessment",
+        "audit",
+        "development",
+        "global",
+        "reskill",
+        "skills"
+      ]
+    },
+    {
+      "name": "Graduate Scenarios",
+      "source_name": "Graduate Scenarios",
+      "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+      "test_type": "B",
+      "type_codes": [
+        "B"
+      ],
+      "duration": "Untimed",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "campus",
+        "entry",
+        "graduate",
+        "judgment",
+        "level",
+        "scenarios",
+        "situational",
+        "sjt",
+        "trainee"
+      ]
+    },
+    {
+      "name": "Graduate Scenarios Narrative Report",
+      "source_name": "Graduate Scenarios Narrative Report",
+      "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+      "test_type": "B",
+      "type_codes": [
+        "B"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "campus",
+        "entry",
+        "graduate",
+        "judgment",
+        "level",
+        "narrative",
+        "report",
+        "scenarios",
+        "situational",
+        "sjt",
+        "trainee"
+      ]
+    },
+    {
+      "name": "Graduate Scenarios Profile Report",
+      "source_name": "Graduate Scenarios Profile Report",
+      "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+      "test_type": "B",
+      "type_codes": [
+        "B"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "campus",
+        "entry",
+        "graduate",
+        "judgment",
+        "level",
+        "profile",
+        "report",
+        "scenarios",
+        "situational",
+        "sjt",
+        "trainee"
+      ]
+    },
+    {
+      "name": "Hibernate (New)",
+      "source_name": "Hibernate (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "hibernate",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "HIPAA (Security)",
+      "source_name": "HIPAA (Security)",
+      "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "15 to 35",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "compliance",
+        "healthcare",
+        "hipaa",
+        "knowledge",
+        "patient",
+        "security",
+        "skills"
+      ]
+    },
+    {
+      "name": "HiPo Assessment Report 1.0",
+      "source_name": "HiPo Assessment Report 1.0",
+      "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "1.0",
+        "assessment",
+        "hipo",
+        "report"
+      ]
+    },
+    {
+      "name": "HiPo Assessment Report 2.0",
+      "source_name": "HiPo Assessment Report 2.0",
+      "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "2.0",
+        "assessment",
+        "hipo",
+        "report"
+      ]
+    },
+    {
+      "name": "HiPo Unlocking Potential Report 2.0",
+      "source_name": "HiPo Unlocking Potential Report 2.0",
+      "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+      "test_type": "C",
+      "type_codes": [
+        "C"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "2.0",
+        "competencies",
+        "competency",
+        "hipo",
+        "potential",
+        "report",
+        "unlocking"
+      ]
+    },
+    {
+      "name": "Housekeeping (New)",
+      "source_name": "Housekeeping (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "housekeeping",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "HTML/CSS (New)",
+      "source_name": "HTML/CSS (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "css",
+        "html",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "HTML5 (New)",
+      "source_name": "HTML5 (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "html5",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Human Resources (New)",
+      "source_name": "Human Resources (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "human",
+        "knowledge",
+        "new",
+        "resources",
+        "skills"
+      ]
+    },
+    {
+      "name": "IBM DataStage (New)",
+      "source_name": "IBM DataStage (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "15",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "datastage",
+        "ibm",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "IBM Sterling Order Management System (New)",
+      "source_name": "IBM Sterling Order Management System (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "ibm",
+        "knowledge",
+        "management",
+        "new",
+        "order",
+        "skills",
+        "sterling",
+        "system"
+      ]
+    },
+    {
+      "name": "Industrial Engineering (New)",
+      "source_name": "Industrial Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "industrial",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Informatica (Architecture) (New)",
+      "source_name": "Informatica (Architecture) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "architecture",
+        "informatica",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Informatica (Developer) (New)",
+      "source_name": "Informatica (Developer) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "developer",
+        "informatica",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Jenkins (New)",
+      "source_name": "Jenkins (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "jenkins",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Job Control Language (New)",
+      "source_name": "Job Control Language (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "control",
+        "job",
+        "knowledge",
+        "language",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "jQuery (New)",
+      "source_name": "jQuery (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "jquery",
+        "knowledge",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Kubernetes (New)",
+      "source_name": "Kubernetes (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "kubernetes",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Linux Administration (New)",
+      "source_name": "Linux Administration (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "administration",
+        "infrastructure",
+        "knowledge",
+        "linux",
+        "new",
+        "skills",
+        "systems"
+      ]
+    },
+    {
+      "name": "Linux Operating System",
+      "source_name": "Linux Operating System",
+      "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "15",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "infrastructure",
+        "knowledge",
+        "linux",
+        "operating",
+        "skills",
+        "system",
+        "systems"
+      ]
+    },
+    {
+      "name": "Linux Programming (General)",
+      "source_name": "Linux Programming (General)",
+      "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "25",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "general",
+        "infrastructure",
+        "knowledge",
+        "linux",
+        "programming",
+        "skills",
+        "systems"
+      ]
+    },
+    {
+      "name": "Load Runner (New)",
+      "source_name": "Load Runner (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "load",
+        "new",
+        "runner",
+        "skills"
+      ]
+    },
+    {
+      "name": "Management Scenarios",
+      "source_name": "Management Scenarios",
+      "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+      "test_type": "B",
+      "type_codes": [
+        "B"
+      ],
+      "duration": "Untimed",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "judgment",
+        "management",
+        "scenarios",
+        "situational",
+        "sjt"
+      ]
+    },
+    {
+      "name": "Managerial Scenarios Candidate Report",
+      "source_name": "Managerial Scenarios Candidate Report",
+      "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+      "test_type": "B",
+      "type_codes": [
+        "B"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "candidate",
+        "judgment",
+        "managerial",
+        "report",
+        "scenarios",
+        "situational",
+        "sjt"
+      ]
+    },
+    {
+      "name": "Managerial Scenarios Narrative Report",
+      "source_name": "Managerial Scenarios Narrative Report",
+      "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+      "test_type": "B",
+      "type_codes": [
+        "B"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "judgment",
+        "managerial",
+        "narrative",
+        "report",
+        "scenarios",
+        "situational",
+        "sjt"
+      ]
+    },
+    {
+      "name": "Managerial Scenarios Profile Report",
+      "source_name": "Managerial Scenarios Profile Report",
+      "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+      "test_type": "B",
+      "type_codes": [
+        "B"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "judgment",
+        "managerial",
+        "profile",
+        "report",
+        "scenarios",
+        "situational",
+        "sjt"
+      ]
+    },
+    {
+      "name": "Manual Testing (New)",
+      "source_name": "Manual Testing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "manual",
+        "new",
+        "skills",
+        "testing"
+      ]
+    },
+    {
+      "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+      "source_name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+      "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "49",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "8.0",
+        "indust.",
+        "manufac.",
+        "mechanical",
+        "vigilance"
+      ]
+    },
+    {
+      "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+      "source_name": "Manufac. & Indust. - Safety & Dependability 8.0",
+      "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "16",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "8.0",
+        "behavior",
+        "dependability",
+        "indust.",
+        "industrial",
+        "manufac.",
+        "manufacturing",
+        "personality",
+        "plant",
+        "safety"
+      ]
+    },
+    {
+      "name": "Manufacturing & Industrial - Essential Focus 8.0",
+      "source_name": "Manufacturing & Industrial - Essential Focus 8.0",
+      "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "16",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "8.0",
+        "behavior",
+        "essential",
+        "focus",
+        "industrial",
+        "manufacturing",
+        "personality"
+      ]
+    },
+    {
+      "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+      "source_name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+      "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "31",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "8.0",
+        "focus",
+        "industrial",
+        "manufacturing",
+        "mechanical"
+      ]
+    },
+    {
+      "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+      "source_name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+      "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "34",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "8.0",
+        "focus",
+        "industrial",
+        "manufacturing",
+        "vigilance"
+      ]
+    },
+    {
+      "name": "Marketing (New)",
+      "source_name": "Marketing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "marketing",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Maven (New)",
+      "source_name": "Maven (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "maven",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering (New)",
+      "source_name": "Mechanical Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "mechanical",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Mechatronics Engineering (New)",
+      "source_name": "Mechatronics Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "19",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "mechatronics",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Medical Terminology (New)",
+      "source_name": "Medical Terminology (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "3",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "healthcare",
+        "knowledge",
+        "medical",
+        "new",
+        "patient",
+        "skills",
+        "terminology"
+      ]
+    },
+    {
+      "name": "Metallurgical Engineering (New)",
+      "source_name": "Metallurgical Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "metallurgical",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "MFS 360 Enterprise Leadership Report",
+      "source_name": "MFS 360 Enterprise Leadership Report",
+      "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+      "test_type": "D",
+      "type_codes": [
+        "D"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "360",
+        "enterprise",
+        "leadership",
+        "mfs",
+        "report"
+      ]
+    },
+    {
+      "name": "MFS 360 UCF Group Report",
+      "source_name": "MFS 360 UCF Group Report",
+      "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+      "test_type": "D",
+      "type_codes": [
+        "D"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "360",
+        "group",
+        "mfs",
+        "report",
+        "ucf"
+      ]
+    },
+    {
+      "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+      "source_name": "MFS 360 UCF Performance Potential Dev Tips Report",
+      "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+      "test_type": "D",
+      "type_codes": [
+        "D"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "360",
+        "dev",
+        "mfs",
+        "performance",
+        "potential",
+        "report",
+        "tips",
+        "ucf"
+      ]
+    },
+    {
+      "name": "MFS 360 UCF Standard Report",
+      "source_name": "MFS 360 UCF Standard Report",
+      "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+      "test_type": "D",
+      "type_codes": [
+        "D"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "360",
+        "mfs",
+        "report",
+        "standard",
+        "ucf"
+      ]
+    },
+    {
+      "name": "Micro Focus Unified Functional Testing (New)",
+      "source_name": "Micro Focus Unified Functional Testing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "focus",
+        "functional",
+        "knowledge",
+        "micro",
+        "new",
+        "skills",
+        "testing",
+        "unified"
+      ]
+    },
+    {
+      "name": "Microservices (New)",
+      "source_name": "Microservices (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "microservices",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Microsoft Dynamics Development (New)",
+      "source_name": "Microsoft Dynamics Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "development",
+        "dynamics",
+        "knowledge",
+        "microsoft",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Microsoft Excel 365 - Essentials (New)",
+      "source_name": "Microsoft Excel 365 - Essentials (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+      "test_type": "K,S",
+      "type_codes": [
+        "K",
+        "S"
+      ],
+      "duration": "30",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "365",
+        "admin",
+        "essentials",
+        "excel",
+        "knowledge",
+        "microsoft",
+        "new",
+        "office",
+        "simulation",
+        "skills",
+        "spreadsheet"
+      ]
+    },
+    {
+      "name": "Microsoft Excel 365 (New)",
+      "source_name": "Microsoft Excel 365 (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+      "test_type": "K,S",
+      "type_codes": [
+        "K",
+        "S"
+      ],
+      "duration": "35",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "365",
+        "admin",
+        "excel",
+        "knowledge",
+        "microsoft",
+        "new",
+        "office",
+        "simulation",
+        "skills",
+        "spreadsheet"
+      ]
+    },
+    {
+      "name": "Microsoft Outlook 2013 (adaptive)",
+      "source_name": "Microsoft Outlook 2013 (adaptive)",
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "25",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "2013",
+        "adaptive",
+        "knowledge",
+        "microsoft",
+        "outlook",
+        "skills"
+      ]
+    },
+    {
+      "name": "Microsoft PowerPoint 365 - Essentials (New)",
+      "source_name": "Microsoft PowerPoint 365 - Essentials (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "25",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "365",
+        "essentials",
+        "microsoft",
+        "new",
+        "powerpoint"
+      ]
+    },
+    {
+      "name": "Microsoft SQL Server 2014 Programming",
+      "source_name": "Microsoft SQL Server 2014 Programming",
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "35",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "2014",
+        "data",
+        "database",
+        "knowledge",
+        "microsoft",
+        "programming",
+        "relational",
+        "server",
+        "skills",
+        "sql"
+      ]
+    },
+    {
+      "name": "Microsoft Windows Server 2012 Administration",
+      "source_name": "Microsoft Windows Server 2012 Administration",
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "35",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "2012",
+        "administration",
+        "knowledge",
+        "microsoft",
+        "server",
+        "skills",
+        "windows"
+      ]
+    },
+    {
+      "name": "Microsoft Word 365 - Essentials (New)",
+      "source_name": "Microsoft Word 365 - Essentials (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+      "test_type": "K,S",
+      "type_codes": [
+        "K",
+        "S"
+      ],
+      "duration": "25",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "365",
+        "admin",
+        "document",
+        "essentials",
+        "knowledge",
+        "microsoft",
+        "new",
+        "office",
+        "simulation",
+        "skills",
+        "word"
+      ]
+    },
+    {
+      "name": "Microsoft Word 365 (New)",
+      "source_name": "Microsoft Word 365 (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+      "test_type": "K,S",
+      "type_codes": [
+        "K",
+        "S"
+      ],
+      "duration": "35",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "365",
+        "admin",
+        "document",
+        "knowledge",
+        "microsoft",
+        "new",
+        "office",
+        "simulation",
+        "skills",
+        "word"
+      ]
+    },
+    {
+      "name": "Mineral Engineering (New)",
+      "source_name": "Mineral Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "mineral",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Mining Engineering (New)",
+      "source_name": "Mining Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "16",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "mining",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Mobility (New)",
+      "source_name": "Mobility (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "mobility",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Molecular Biology (New)",
+      "source_name": "Molecular Biology (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "biology",
+        "knowledge",
+        "molecular",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "MongoDB (New)",
+      "source_name": "MongoDB (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "mongodb",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Motivation Questionnaire MQM5",
+      "source_name": "Motivation Questionnaire MQM5",
+      "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "Untimed, approx. 25",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "motivation",
+        "mqm5",
+        "personality",
+        "questionnaire"
+      ]
+    },
+    {
+      "name": "MQ Candidate Motivation Report",
+      "source_name": "MQ Candidate Motivation Report",
+      "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "candidate",
+        "motivation",
+        "mq",
+        "personality",
+        "report"
+      ]
+    },
+    {
+      "name": "MQ Employee Motivation Report",
+      "source_name": "MQ Employee Motivation Report",
+      "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "employee",
+        "motivation",
+        "mq",
+        "personality",
+        "report"
+      ]
+    },
+    {
+      "name": "MQ Motivation Report Pack",
+      "source_name": "MQ Motivation Report Pack",
+      "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "motivation",
+        "mq",
+        "pack",
+        "personality",
+        "report"
+      ]
+    },
+    {
+      "name": "MQ Profile",
+      "source_name": "MQ Profile",
+      "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "mq",
+        "personality",
+        "profile"
+      ]
+    },
+    {
+      "name": "MS Access (New)",
+      "source_name": "MS Access (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "access",
+        "knowledge",
+        "ms",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "MS Excel (New)",
+      "source_name": "MS Excel (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "admin",
+        "excel",
+        "knowledge",
+        "ms",
+        "new",
+        "office",
+        "skills",
+        "spreadsheet"
+      ]
+    },
+    {
+      "name": "MS Office Basic Computer Literacy (New)",
+      "source_name": "MS Office Basic Computer Literacy (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "basic",
+        "computer",
+        "knowledge",
+        "literacy",
+        "ms",
+        "new",
+        "office",
+        "skills"
+      ]
+    },
+    {
+      "name": "MS Office Basic Computer Literacy (Sim) (New)",
+      "source_name": "MS Office Basic Computer Literacy (Sim) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "basic",
+        "computer",
+        "literacy",
+        "ms",
+        "new",
+        "office",
+        "sim",
+        "simulation"
+      ]
+    },
+    {
+      "name": "MS PowerPoint (New)",
+      "source_name": "MS PowerPoint (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "4",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "ms",
+        "new",
+        "powerpoint",
+        "skills"
+      ]
+    },
+    {
+      "name": "MS Word (New)",
+      "source_name": "MS Word (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "4",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "admin",
+        "document",
+        "knowledge",
+        "ms",
+        "new",
+        "office",
+        "skills",
+        "word"
+      ]
+    },
+    {
+      "name": "MuleSoft Development (New)",
+      "source_name": "MuleSoft Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "17",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "development",
+        "knowledge",
+        "mulesoft",
+        "new",
+        "skills"
+      ]
+    },
+    {
+      "name": "Multitasking Ability",
+      "source_name": "Multitasking Ability",
+      "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "ability",
+        "multitasking"
+      ]
+    },
+    {
+      "name": "Networking and Implementation (New)",
+      "source_name": "Networking and Implementation (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "implementation",
+        "infrastructure",
+        "knowledge",
+        "networking",
+        "new",
+        "skills",
+        "systems"
+      ]
+    },
+    {
+      "name": "Node.js (New)",
+      "source_name": "Node.js (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "node.js",
+        "skills"
+      ]
+    },
+    {
+      "name": "Nursing (New)",
+      "source_name": "Nursing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "nursing",
+        "skills"
+      ]
+    },
+    {
+      "name": "Occupational Personality Questionnaire OPQ32r",
+      "source_name": "Occupational Personality Questionnaire OPQ32r",
+      "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "Untimed, approx. 25",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "fit",
+        "leadership",
+        "occupational",
+        "opq32r",
+        "personality",
+        "questionnaire"
+      ]
+    },
+    {
+      "name": "Operations Management (New)",
+      "source_name": "Operations Management (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "management",
+        "new",
+        "operations",
+        "skills"
+      ]
+    },
+    {
+      "name": "OPQ Candidate Plus Report",
+      "source_name": "OPQ Candidate Plus Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "candidate",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "plus",
+        "report"
+      ]
+    },
+    {
+      "name": "OPQ Candidate Report 2.0",
+      "source_name": "OPQ Candidate Report 2.0",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "2.0",
+        "behavior",
+        "candidate",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "report"
+      ]
+    },
+    {
+      "name": "OPQ Emotional Intelligence Report",
+      "source_name": "OPQ Emotional Intelligence Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "emotional",
+        "fit",
+        "intelligence",
+        "leadership",
+        "opq",
+        "personality",
+        "report"
+      ]
+    },
+    {
+      "name": "OPQ Leadership Report",
+      "source_name": "OPQ Leadership Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "report"
+      ]
+    },
+    {
+      "name": "OPQ Manager Plus Report",
+      "source_name": "OPQ Manager Plus Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "fit",
+        "leadership",
+        "manager",
+        "opq",
+        "personality",
+        "plus",
+        "report"
+      ]
+    },
+    {
+      "name": "OPQ Manager Plus Report 2.0",
+      "source_name": "OPQ Manager Plus Report 2.0",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "2.0",
+        "behavior",
+        "fit",
+        "leadership",
+        "manager",
+        "opq",
+        "personality",
+        "plus",
+        "report"
+      ]
+    },
+    {
+      "name": "OPQ Maximising your Learning Report",
+      "source_name": "OPQ Maximising your Learning Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "fit",
+        "leadership",
+        "learning",
+        "maximising",
+        "opq",
+        "personality",
+        "report",
+        "your"
+      ]
+    },
+    {
+      "name": "OPQ MQ Sales Report",
+      "source_name": "OPQ MQ Sales Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "account",
+        "behavior",
+        "commercial",
+        "fit",
+        "leadership",
+        "mq",
+        "opq",
+        "personality",
+        "report",
+        "sales",
+        "selling"
+      ]
+    },
+    {
+      "name": "OPQ Premium Plus Report",
+      "source_name": "OPQ Premium Plus Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "plus",
+        "premium",
+        "report"
+      ]
+    },
+    {
+      "name": "OPQ Premium Plus Report 2.0",
+      "source_name": "OPQ Premium Plus Report 2.0",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "2.0",
+        "behavior",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "plus",
+        "premium",
+        "report"
+      ]
+    },
+    {
+      "name": "OPQ Profile Report",
+      "source_name": "OPQ Profile Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "profile",
+        "report"
+      ]
+    },
+    {
+      "name": "OPQ Team Impact Group Development Report",
+      "source_name": "OPQ Team Impact Group Development Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "development",
+        "fit",
+        "group",
+        "impact",
+        "leadership",
+        "opq",
+        "personality",
+        "report",
+        "team"
+      ]
+    },
+    {
+      "name": "OPQ Team Impact Individual Development Report",
+      "source_name": "OPQ Team Impact Individual Development Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "development",
+        "fit",
+        "impact",
+        "individual",
+        "leadership",
+        "opq",
+        "personality",
+        "report",
+        "team"
+      ]
+    },
+    {
+      "name": "OPQ Team Impact Selection Report",
+      "source_name": "OPQ Team Impact Selection Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "fit",
+        "impact",
+        "leadership",
+        "opq",
+        "personality",
+        "report",
+        "selection",
+        "team"
+      ]
+    },
+    {
+      "name": "OPQ Team Types & Leadership Styles Profile",
+      "source_name": "OPQ Team Types & Leadership Styles Profile",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "profile",
+        "styles",
+        "team",
+        "types"
+      ]
+    },
+    {
+      "name": "OPQ Team Types and Leadership Styles Report",
+      "source_name": "OPQ Team Types and Leadership Styles Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "behavior",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "report",
+        "styles",
+        "team",
+        "types"
+      ]
+    },
+    {
+      "name": "OPQ UCF Development Action Planner Report 1.0",
+      "source_name": "OPQ UCF Development Action Planner Report 1.0",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "1.0",
+        "action",
+        "behavior",
+        "development",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "planner",
+        "report",
+        "ucf"
+      ]
+    },
+    {
+      "name": "OPQ UCF Development Action Planner Report 2.0",
+      "source_name": "OPQ UCF Development Action Planner Report 2.0",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "2.0",
+        "action",
+        "behavior",
+        "development",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "planner",
+        "report",
+        "ucf"
+      ]
+    },
+    {
+      "name": "OPQ Universal Competency Report 1.0",
+      "source_name": "OPQ Universal Competency Report 1.0",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "1.0",
+        "behavior",
+        "competency",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "report",
+        "universal"
+      ]
+    },
+    {
+      "name": "OPQ Universal Competency Report 2.0",
+      "source_name": "OPQ Universal Competency Report 2.0",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "2.0",
+        "behavior",
+        "competency",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "report",
+        "universal"
+      ]
+    },
+    {
+      "name": "OPQ User and Managers Report",
+      "source_name": "OPQ User and Managers Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "behavior",
+        "fit",
+        "leadership",
+        "managers",
+        "opq",
+        "personality",
+        "report",
+        "user"
+      ]
+    },
+    {
+      "name": "OPQ User Report",
+      "source_name": "OPQ User Report",
+      "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "fit",
+        "leadership",
+        "opq",
+        "personality",
+        "report",
+        "user"
+      ]
+    },
+    {
+      "name": "Oracle DBA (Advanced Level) (New)",
+      "source_name": "Oracle DBA (Advanced Level) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "advanced",
+        "dba",
+        "knowledge",
+        "level",
+        "new",
+        "oracle",
+        "skills"
+      ]
+    },
+    {
+      "name": "Oracle DBA (Entry Level) (New)",
+      "source_name": "Oracle DBA (Entry Level) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "dba",
+        "entry",
+        "knowledge",
+        "level",
+        "new",
+        "oracle",
+        "skills"
+      ]
+    },
+    {
+      "name": "Oracle PL/SQL (New)",
+      "source_name": "Oracle PL/SQL (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "data",
+        "database",
+        "knowledge",
+        "new",
+        "oracle",
+        "pl",
+        "relational",
+        "skills",
+        "sql"
+      ]
+    },
+    {
+      "name": "Oracle WebLogic Server (New)",
+      "source_name": "Oracle WebLogic Server (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "oracle",
+        "server",
+        "skills",
+        "weblogic"
+      ]
+    },
+    {
+      "name": "Organic Chemistry (New)",
+      "source_name": "Organic Chemistry (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "chemistry",
+        "knowledge",
+        "new",
+        "organic",
+        "skills"
+      ]
+    },
+    {
+      "name": "Paint Technology (New)",
+      "source_name": "Paint Technology (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "paint",
+        "skills",
+        "technology"
+      ]
+    },
+    {
+      "name": "Pediatrics (New)",
+      "source_name": "Pediatrics (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "pediatrics",
+        "skills"
+      ]
+    },
+    {
+      "name": "Pega Development (New)",
+      "source_name": "Pega Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "17",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "development",
+        "knowledge",
+        "new",
+        "pega",
+        "skills"
+      ]
+    },
+    {
+      "name": "Perl (New)",
+      "source_name": "Perl (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "perl",
+        "skills"
+      ]
+    },
+    {
+      "name": "Petrochemical Engineering (New)",
+      "source_name": "Petrochemical Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "new",
+        "petrochemical",
+        "skills"
+      ]
+    },
+    {
+      "name": "Petroleum Engineering (New)",
+      "source_name": "Petroleum Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "new",
+        "petroleum",
+        "skills"
+      ]
+    },
+    {
+      "name": "Pharmaceutical Analysis (New)",
+      "source_name": "Pharmaceutical Analysis (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "analysis",
+        "knowledge",
+        "new",
+        "pharmaceutical",
+        "skills"
+      ]
+    },
+    {
+      "name": "Pharmaceutical Chemistry (New)",
+      "source_name": "Pharmaceutical Chemistry (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "17",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "chemistry",
+        "knowledge",
+        "new",
+        "pharmaceutical",
+        "skills"
+      ]
+    },
+    {
+      "name": "Pharmaceutical Science (New)",
+      "source_name": "Pharmaceutical Science (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "pharmaceutical",
+        "science",
+        "skills"
+      ]
+    },
+    {
+      "name": "Pharmaceutics (New)",
+      "source_name": "Pharmaceutics (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "pharmaceutics",
+        "skills"
+      ]
+    },
+    {
+      "name": "Pharmacology (New)",
+      "source_name": "Pharmacology (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "pharmacology",
+        "skills"
+      ]
+    },
+    {
+      "name": "PHP (New)",
+      "source_name": "PHP (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/php-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "php",
+        "skills"
+      ]
+    },
+    {
+      "name": "PJM Development Report",
+      "source_name": "PJM Development Report",
+      "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "development",
+        "pjm",
+        "report"
+      ]
+    },
+    {
+      "name": "PJM Selection Report",
+      "source_name": "PJM Selection Report",
+      "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "pjm",
+        "report",
+        "selection"
+      ]
+    },
+    {
+      "name": "Polymer Engineering (New)",
+      "source_name": "Polymer Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "new",
+        "polymer",
+        "skills"
+      ]
+    },
+    {
+      "name": "Power Electronics and Drives (New)",
+      "source_name": "Power Electronics and Drives (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "15",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "drives",
+        "electronics",
+        "knowledge",
+        "new",
+        "power",
+        "skills"
+      ]
+    },
+    {
+      "name": "Power System Engineering (New)",
+      "source_name": "Power System Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "new",
+        "power",
+        "skills",
+        "system"
+      ]
+    },
+    {
+      "name": "Prism (New)",
+      "source_name": "Prism (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "4",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "prism",
+        "skills"
+      ]
+    },
+    {
+      "name": "Production and Industrial Engineering (New)",
+      "source_name": "Production and Industrial Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "engineering",
+        "industrial",
+        "knowledge",
+        "new",
+        "production",
+        "skills"
+      ]
+    },
+    {
+      "name": "Production Engineering (New)",
+      "source_name": "Production Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "new",
+        "production",
+        "skills"
+      ]
+    },
+    {
+      "name": "Programming Concepts",
+      "source_name": "Programming Concepts",
+      "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "25",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "concepts",
+        "knowledge",
+        "programming",
+        "skills"
+      ]
+    },
+    {
+      "name": "Project Management (2013)",
+      "source_name": "Project Management (2013)",
+      "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "30",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "2013",
+        "knowledge",
+        "management",
+        "project",
+        "skills"
+      ]
+    },
+    {
+      "name": "Proofreading v1",
+      "source_name": "Proofreading v1",
+      "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "proofreading",
+        "skills",
+        "v1"
+      ]
+    },
+    {
+      "name": "Python (New)",
+      "source_name": "Python (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "python",
+        "skills"
+      ]
+    },
+    {
+      "name": "R Programming (New)",
+      "source_name": "R Programming (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "13",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "programming",
+        "skills"
+      ]
+    },
+    {
+      "name": "ReactJS (New)",
+      "source_name": "ReactJS (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "frontend",
+        "javascript",
+        "knowledge",
+        "new",
+        "reactjs",
+        "skills"
+      ]
+    },
+    {
+      "name": "Reading Comprehension - English v1",
+      "source_name": "Reading Comprehension - English v1",
+      "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "35",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "comprehension",
+        "english",
+        "reading",
+        "reasoning",
+        "v1"
+      ]
+    },
+    {
+      "name": "Reading Comprehension - Spanish v1",
+      "source_name": "Reading Comprehension - Spanish v1",
+      "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "26",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "comprehension",
+        "reading",
+        "reasoning",
+        "spanish",
+        "v1"
+      ]
+    },
+    {
+      "name": "Reading Comprehension v2",
+      "source_name": "Reading Comprehension v2",
+      "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "35",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "comprehension",
+        "reading",
+        "reasoning",
+        "v2"
+      ]
+    },
+    {
+      "name": "RemoteWorkQ",
+      "source_name": "RemoteWorkQ",
+      "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+      "test_type": "C",
+      "type_codes": [
+        "C"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "competencies",
+        "competency",
+        "remoteworkq"
+      ]
+    },
+    {
+      "name": "RemoteWorkQ Manager Report",
+      "source_name": "RemoteWorkQ Manager Report",
+      "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+      "test_type": "C",
+      "type_codes": [
+        "C"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "competencies",
+        "competency",
+        "manager",
+        "remoteworkq",
+        "report"
+      ]
+    },
+    {
+      "name": "RemoteWorkQ Participant Report",
+      "source_name": "RemoteWorkQ Participant Report",
+      "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+      "test_type": "C",
+      "type_codes": [
+        "C"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "competencies",
+        "competency",
+        "participant",
+        "remoteworkq",
+        "report"
+      ]
+    },
+    {
+      "name": "RESTful Web Services (New)",
+      "source_name": "RESTful Web Services (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "api",
+        "backend",
+        "knowledge",
+        "new",
+        "restful",
+        "services",
+        "skills",
+        "web"
+      ]
+    },
+    {
+      "name": "Retail Sales and Service Simulation",
+      "source_name": "Retail Sales and Service Simulation",
+      "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "30",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "account",
+        "and",
+        "commercial",
+        "retail",
+        "sales",
+        "selling",
+        "service",
+        "simulation"
+      ]
+    },
+    {
+      "name": "Reviewing Forms - US (R1)",
+      "source_name": "Reviewing Forms - US (R1)",
+      "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "forms",
+        "knowledge",
+        "r1",
+        "reviewing",
+        "skills",
+        "us"
+      ]
+    },
+    {
+      "name": "Ruby (New)",
+      "source_name": "Ruby (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "ruby",
+        "skills"
+      ]
+    },
+    {
+      "name": "Ruby on Rails (New)",
+      "source_name": "Ruby on Rails (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "on",
+        "rails",
+        "ruby",
+        "skills"
+      ]
+    },
+    {
+      "name": "Sales & Service Phone Simulation",
+      "source_name": "Sales & Service Phone Simulation",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+      "test_type": "B,S",
+      "type_codes": [
+        "B",
+        "S"
+      ],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "account",
+        "commercial",
+        "judgment",
+        "phone",
+        "sales",
+        "selling",
+        "service",
+        "simulation",
+        "situational",
+        "sjt"
+      ]
+    },
+    {
+      "name": "Sales & Service Phone Solution",
+      "source_name": "Sales & Service Phone Solution",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "35",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "account",
+        "commercial",
+        "phone",
+        "sales",
+        "selling",
+        "service",
+        "solution"
+      ]
+    },
+    {
+      "name": "Sales Interview Guide",
+      "source_name": "Sales Interview Guide",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "Untimed",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "account",
+        "commercial",
+        "guide",
+        "interview",
+        "sales",
+        "selling"
+      ]
+    },
+    {
+      "name": "Sales Profiler Cards",
+      "source_name": "Sales Profiler Cards",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "Untimed",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "account",
+        "behavior",
+        "cards",
+        "commercial",
+        "personality",
+        "profiler",
+        "sales",
+        "selling"
+      ]
+    },
+    {
+      "name": "Sales Transformation 1.0 - Individual Contributor",
+      "source_name": "Sales Transformation 1.0 - Individual Contributor",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "1.0",
+        "account",
+        "behavior",
+        "commercial",
+        "contributor",
+        "individual",
+        "personality",
+        "sales",
+        "selling",
+        "transformation"
+      ]
+    },
+    {
+      "name": "Sales Transformation 2.0 - Individual Contributor",
+      "source_name": "Sales Transformation 2.0 - Individual Contributor",
+      "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "2.0",
+        "account",
+        "behavior",
+        "commercial",
+        "contributor",
+        "individual",
+        "personality",
+        "sales",
+        "selling",
+        "transformation"
+      ]
+    },
+    {
+      "name": "Sales Transformation Report 1.0 - Sales Manager",
+      "source_name": "Sales Transformation Report 1.0 - Sales Manager",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "1.0",
+        "account",
+        "behavior",
+        "commercial",
+        "manager",
+        "personality",
+        "report",
+        "sales",
+        "selling",
+        "transformation"
+      ]
+    },
+    {
+      "name": "Sales Transformation Report 2.0 - Sales Manager",
+      "source_name": "Sales Transformation Report 2.0 - Sales Manager",
+      "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "2.0",
+        "account",
+        "behavior",
+        "commercial",
+        "manager",
+        "personality",
+        "report",
+        "sales",
+        "selling",
+        "transformation"
+      ]
+    },
+    {
+      "name": "Salesforce Development (New)",
+      "source_name": "Salesforce Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "15",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "account",
+        "commercial",
+        "development",
+        "knowledge",
+        "new",
+        "salesforce",
+        "selling",
+        "skills"
+      ]
+    },
+    {
+      "name": "SAP ABAP (Advanced Level) (New)",
+      "source_name": "SAP ABAP (Advanced Level) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "abap",
+        "advanced",
+        "knowledge",
+        "level",
+        "new",
+        "sap",
+        "skills"
+      ]
+    },
+    {
+      "name": "SAP ABAP (Intermediate Level) (New)",
+      "source_name": "SAP ABAP (Intermediate Level) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "abap",
+        "intermediate",
+        "knowledge",
+        "level",
+        "new",
+        "sap",
+        "skills"
+      ]
+    },
+    {
+      "name": "SAP Basis (New)",
+      "source_name": "SAP Basis (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "basis",
+        "knowledge",
+        "new",
+        "sap",
+        "skills"
+      ]
+    },
+    {
+      "name": "SAP Business Objects WebI (New)",
+      "source_name": "SAP Business Objects WebI (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "business",
+        "knowledge",
+        "new",
+        "objects",
+        "sap",
+        "skills",
+        "webi"
+      ]
+    },
+    {
+      "name": "SAP BW (Business Warehouse) (New)",
+      "source_name": "SAP BW (Business Warehouse) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "business",
+        "bw",
+        "knowledge",
+        "new",
+        "sap",
+        "skills",
+        "warehouse"
+      ]
+    },
+    {
+      "name": "SAP HCM (Human Capital Management) (New)",
+      "source_name": "SAP HCM (Human Capital Management) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "TBC",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "capital",
+        "hcm",
+        "human",
+        "knowledge",
+        "management",
+        "new",
+        "sap",
+        "skills"
+      ]
+    },
+    {
+      "name": "SAP Hybris (New)",
+      "source_name": "SAP Hybris (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "hybris",
+        "knowledge",
+        "new",
+        "sap",
+        "skills"
+      ]
+    },
+    {
+      "name": "SAP Materials Management (New)",
+      "source_name": "SAP Materials Management (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "management",
+        "materials",
+        "new",
+        "sap",
+        "skills"
+      ]
+    },
+    {
+      "name": "SAP SD (Sales and Distribution) (New)",
+      "source_name": "SAP SD (Sales and Distribution) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "account",
+        "and",
+        "commercial",
+        "distribution",
+        "knowledge",
+        "new",
+        "sales",
+        "sap",
+        "sd",
+        "selling",
+        "skills"
+      ]
+    },
+    {
+      "name": "Search Engine Optimization (New)",
+      "source_name": "Search Engine Optimization (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engine",
+        "knowledge",
+        "new",
+        "optimization",
+        "search",
+        "skills"
+      ]
+    },
+    {
+      "name": "Selenium (New)",
+      "source_name": "Selenium (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "selenium",
+        "skills"
+      ]
+    },
+    {
+      "name": "Shell Scripting (New)",
+      "source_name": "Shell Scripting (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "scripting",
+        "shell",
+        "skills"
+      ]
+    },
+    {
+      "name": "SHL Verify Interactive - Inductive Reasoning",
+      "source_name": "SHL Verify Interactive - Inductive Reasoning",
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "inductive",
+        "interactive",
+        "reasoning",
+        "shl",
+        "verify"
+      ]
+    },
+    {
+      "name": "SHL Verify Interactive \u2013 Deductive Reasoning",
+      "source_name": "SHL Verify Interactive \u2013 Deductive Reasoning",
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "deductive",
+        "interactive",
+        "reasoning",
+        "shl",
+        "verify"
+      ]
+    },
+    {
+      "name": "SHL Verify Interactive \u2013 Numerical Reasoning",
+      "source_name": "SHL Verify Interactive \u2013 Numerical Reasoning",
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+      "test_type": "A,S",
+      "type_codes": [
+        "A",
+        "S"
+      ],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "interactive",
+        "numerical",
+        "reasoning",
+        "shl",
+        "simulation",
+        "verify"
+      ]
+    },
+    {
+      "name": "SHL Verify Interactive G+",
+      "source_name": "SHL Verify Interactive G+",
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "36",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "g+",
+        "interactive",
+        "reasoning",
+        "shl",
+        "verify"
+      ]
+    },
+    {
+      "name": "SHL Verify Interactive Numerical Calculation",
+      "source_name": "SHL Verify Interactive Numerical Calculation",
+      "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "aptitude",
+        "calculation",
+        "cognitive",
+        "interactive",
+        "numerical",
+        "reasoning",
+        "shl",
+        "verify"
+      ]
+    },
+    {
+      "name": "Siebel Development (New)",
+      "source_name": "Siebel Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "development",
+        "knowledge",
+        "new",
+        "siebel",
+        "skills"
+      ]
+    },
+    {
+      "name": "Smart Interview Live",
+      "source_name": "Smart Interview Live",
+      "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "Variable",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "interview",
+        "live",
+        "personality",
+        "smart"
+      ]
+    },
+    {
+      "name": "Smart Interview Live Coding",
+      "source_name": "Smart Interview Live Coding",
+      "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "Variable",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "coding",
+        "developer",
+        "interview",
+        "knowledge",
+        "live",
+        "skills",
+        "smart"
+      ]
+    },
+    {
+      "name": "Smart Interview On Demand",
+      "source_name": "Smart Interview On Demand",
+      "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "Variable",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "behavior",
+        "demand",
+        "interview",
+        "on",
+        "personality",
+        "smart"
+      ]
+    },
+    {
+      "name": "Social Media (New)",
+      "source_name": "Social Media (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "media",
+        "new",
+        "skills",
+        "social"
+      ]
+    },
+    {
+      "name": "Software Business Analysis",
+      "source_name": "Software Business Analysis",
+      "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "30",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "analysis",
+        "business",
+        "knowledge",
+        "skills",
+        "software"
+      ]
+    },
+    {
+      "name": "SonarQube (New)",
+      "source_name": "SonarQube (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "TBC",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "skills",
+        "sonarqube"
+      ]
+    },
+    {
+      "name": "Spelling (U.S.) (New)",
+      "source_name": "Spelling (U.S.) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "0",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "skills",
+        "spelling",
+        "u.s."
+      ]
+    },
+    {
+      "name": "Split Screen Typing Test - Form 1",
+      "source_name": "Split Screen Typing Test - Form 1",
+      "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "6",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "form",
+        "screen",
+        "split",
+        "test",
+        "typing"
+      ]
+    },
+    {
+      "name": "Spring (New)",
+      "source_name": "Spring (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "backend",
+        "java",
+        "knowledge",
+        "microservices",
+        "new",
+        "skills",
+        "spring"
+      ]
+    },
+    {
+      "name": "SQL (New)",
+      "source_name": "SQL (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "data",
+        "database",
+        "knowledge",
+        "new",
+        "relational",
+        "skills",
+        "sql"
+      ]
+    },
+    {
+      "name": "SQL Server (New)",
+      "source_name": "SQL Server (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "data",
+        "database",
+        "knowledge",
+        "new",
+        "relational",
+        "server",
+        "skills",
+        "sql"
+      ]
+    },
+    {
+      "name": "SQL Server Analysis Services (SSAS) (New)",
+      "source_name": "SQL Server Analysis Services (SSAS) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "15",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "analysis",
+        "data",
+        "database",
+        "knowledge",
+        "new",
+        "relational",
+        "server",
+        "services",
+        "skills",
+        "sql",
+        "ssas"
+      ]
+    },
+    {
+      "name": "SQL Server Integration Services (SSIS) (New)",
+      "source_name": "SQL Server Integration Services (SSIS) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "data",
+        "database",
+        "integration",
+        "knowledge",
+        "new",
+        "relational",
+        "server",
+        "services",
+        "skills",
+        "sql",
+        "ssis"
+      ]
+    },
+    {
+      "name": "SQL Server Reporting Services (SSRS) (New)",
+      "source_name": "SQL Server Reporting Services (SSRS) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "data",
+        "database",
+        "knowledge",
+        "new",
+        "relational",
+        "reporting",
+        "server",
+        "services",
+        "skills",
+        "sql",
+        "ssrs"
+      ]
+    },
+    {
+      "name": "Statistical Analysis System (New)",
+      "source_name": "Statistical Analysis System (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "11",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "analysis",
+        "knowledge",
+        "new",
+        "skills",
+        "statistical",
+        "system"
+      ]
+    },
+    {
+      "name": "Struts (New)",
+      "source_name": "Struts (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "skills",
+        "struts"
+      ]
+    },
+    {
+      "name": "SVAR Spoken English (AUS)",
+      "source_name": "SVAR - Spoken English (AUS)",
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "-",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accent",
+        "aus",
+        "call",
+        "center",
+        "english",
+        "language",
+        "simulation",
+        "spoken",
+        "svar"
+      ]
+    },
+    {
+      "name": "SVAR Spoken English (Indian Accent) (New)",
+      "source_name": "SVAR - Spoken English (Indian Accent)  (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "-",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accent",
+        "call",
+        "center",
+        "english",
+        "indian",
+        "language",
+        "new",
+        "simulation",
+        "spoken",
+        "svar"
+      ]
+    },
+    {
+      "name": "SVAR Spoken English (UK)",
+      "source_name": "SVAR - Spoken English (U.K.)",
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "-",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accent",
+        "call",
+        "center",
+        "english",
+        "language",
+        "simulation",
+        "spoken",
+        "svar",
+        "uk"
+      ]
+    },
+    {
+      "name": "SVAR Spoken English (US) (New)",
+      "source_name": "SVAR - Spoken English (US)  (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "-",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accent",
+        "call",
+        "center",
+        "english",
+        "language",
+        "new",
+        "simulation",
+        "spoken",
+        "svar",
+        "us"
+      ]
+    },
+    {
+      "name": "SVAR Spoken French (Canadian) (New)",
+      "source_name": "SVAR - Spoken French (Canadian) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "-",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accent",
+        "call",
+        "canadian",
+        "center",
+        "french",
+        "language",
+        "new",
+        "simulation",
+        "spoken",
+        "svar"
+      ]
+    },
+    {
+      "name": "SVAR Spoken French (European) (New)",
+      "source_name": "SVAR - Spoken French (European) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "-",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accent",
+        "call",
+        "center",
+        "european",
+        "french",
+        "language",
+        "new",
+        "simulation",
+        "spoken",
+        "svar"
+      ]
+    },
+    {
+      "name": "SVAR Spoken Spanish (Castilian) (New)",
+      "source_name": "SVAR - Spoken Spanish (Castilian) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "-",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accent",
+        "call",
+        "castilian",
+        "center",
+        "language",
+        "new",
+        "simulation",
+        "spanish",
+        "spoken",
+        "svar"
+      ]
+    },
+    {
+      "name": "SVAR Spoken Spanish (North American) (New)",
+      "source_name": "SVAR - Spoken Spanish (North American) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "-",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "accent",
+        "american",
+        "call",
+        "center",
+        "language",
+        "new",
+        "north",
+        "simulation",
+        "spanish",
+        "spoken",
+        "svar"
+      ]
+    },
+    {
+      "name": "Swing (New)",
+      "source_name": "Swing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "4",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "skills",
+        "swing"
+      ]
+    },
+    {
+      "name": "Tableau (New)",
+      "source_name": "Tableau (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "skills",
+        "tableau"
+      ]
+    },
+    {
+      "name": "Telecommunications Engineering (New)",
+      "source_name": "Telecommunications Engineering (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "engineering",
+        "knowledge",
+        "new",
+        "skills",
+        "telecommunications"
+      ]
+    },
+    {
+      "name": "Teradata Development (New)",
+      "source_name": "Teradata Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "development",
+        "knowledge",
+        "new",
+        "skills",
+        "teradata"
+      ]
+    },
+    {
+      "name": "Time Management (U.S.)",
+      "source_name": "Time Management (U.S.)",
+      "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "15 to 35",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "knowledge",
+        "management",
+        "skills",
+        "time",
+        "u.s."
+      ]
+    },
+    {
+      "name": "Training Development",
+      "source_name": "Training Development",
+      "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "15 to 35",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "development",
+        "knowledge",
+        "skills",
+        "training"
+      ]
+    },
+    {
+      "name": "Typing (New)",
+      "source_name": "Typing (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "2",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "new",
+        "simulation",
+        "typing"
+      ]
+    },
+    {
+      "name": "UiPath RPA Development (New)",
+      "source_name": "UiPath RPA Development (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "development",
+        "knowledge",
+        "new",
+        "rpa",
+        "skills",
+        "uipath"
+      ]
+    },
+    {
+      "name": "Universal Competency Framework Interview Guide",
+      "source_name": "Universal Competency Framework Interview Guide",
+      "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "competency",
+        "framework",
+        "guide",
+        "interview",
+        "universal"
+      ]
+    },
+    {
+      "name": "Universal Competency Framework Job profiling guide",
+      "source_name": "Universal Competency Framework Job profiling guide",
+      "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "Untimed",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "competency",
+        "framework",
+        "guide",
+        "job",
+        "profiling",
+        "universal"
+      ]
+    },
+    {
+      "name": "Universal Competency Framework Profiler Cards (44)",
+      "source_name": "Universal Competency Framework Profiler Cards (44)",
+      "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "Untimed",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "44",
+        "cards",
+        "competency",
+        "framework",
+        "profiler",
+        "universal"
+      ]
+    },
+    {
+      "name": "UNIX (New)",
+      "source_name": "UNIX (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "skills",
+        "unix"
+      ]
+    },
+    {
+      "name": "VB.NET (New)",
+      "source_name": "VB.NET (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "skills",
+        "vb.net"
+      ]
+    },
+    {
+      "name": "Verify - Deductive Reasoning",
+      "source_name": "Verify - Deductive Reasoning",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "deductive",
+        "reasoning",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify - Following Instructions",
+      "source_name": "Verify - Following Instructions",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "8",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "following",
+        "instructions",
+        "reasoning",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify - G+",
+      "source_name": "Verify - G+",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "36",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "g+",
+        "reasoning",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify - General Ability Screen",
+      "source_name": "Verify - General Ability Screen",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "ability",
+        "aptitude",
+        "cognitive",
+        "general",
+        "reasoning",
+        "screen",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify - Inductive Reasoning (2014)",
+      "source_name": "Verify - Inductive Reasoning (2014)",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "24",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "2014",
+        "aptitude",
+        "cognitive",
+        "inductive",
+        "reasoning",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify - Numerical Ability",
+      "source_name": "Verify - Numerical Ability",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "20",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "ability",
+        "aptitude",
+        "cognitive",
+        "numerical",
+        "reasoning",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify - Technical Checking - Next Generation",
+      "source_name": "Verify - Technical Checking - Next Generation",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "aptitude",
+        "checking",
+        "cognitive",
+        "generation",
+        "next",
+        "reasoning",
+        "technical",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify - Verbal Ability - Next Generation",
+      "source_name": "Verify - Verbal Ability - Next Generation",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "15 minutes",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "ability",
+        "aptitude",
+        "cognitive",
+        "generation",
+        "next",
+        "reasoning",
+        "verbal",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify - Working with Information",
+      "source_name": "Verify - Working with Information",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "10",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "information",
+        "reasoning",
+        "verify",
+        "with",
+        "working"
+      ]
+    },
+    {
+      "name": "Verify G+ - Ability Test Report",
+      "source_name": "Verify G+ - Ability Test Report",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "ability",
+        "aptitude",
+        "cognitive",
+        "g+",
+        "reasoning",
+        "report",
+        "test",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify G+ - Candidate Report",
+      "source_name": "Verify G+ - Candidate Report",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "aptitude",
+        "candidate",
+        "cognitive",
+        "g+",
+        "reasoning",
+        "report",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify Interactive Ability Report",
+      "source_name": "Verify Interactive Ability Report",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "ability",
+        "aptitude",
+        "cognitive",
+        "interactive",
+        "reasoning",
+        "report",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify Interactive G+ Candidate Report",
+      "source_name": "Verify Interactive G+ Candidate Report",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "aptitude",
+        "candidate",
+        "cognitive",
+        "g+",
+        "interactive",
+        "reasoning",
+        "report",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify Interactive G+ Report",
+      "source_name": "Verify Interactive G+ Report",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "g+",
+        "interactive",
+        "reasoning",
+        "report",
+        "verify"
+      ]
+    },
+    {
+      "name": "Verify Interactive Process Monitoring",
+      "source_name": "Verify Interactive Process Monitoring",
+      "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+      "test_type": "A",
+      "type_codes": [
+        "A"
+      ],
+      "duration": "18",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "aptitude",
+        "cognitive",
+        "interactive",
+        "monitoring",
+        "process",
+        "reasoning",
+        "verify"
+      ]
+    },
+    {
+      "name": "Virtual Assessment and Development Centers",
+      "source_name": "Virtual Assessment and Development Centers",
+      "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+      "test_type": "P",
+      "type_codes": [
+        "P"
+      ],
+      "duration": "N/A",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "assessment",
+        "behavior",
+        "centers",
+        "development",
+        "personality",
+        "virtual"
+      ]
+    },
+    {
+      "name": "Visual Basic for Applications (New)",
+      "source_name": "Visual Basic for Applications (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "7",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "applications",
+        "basic",
+        "for",
+        "knowledge",
+        "new",
+        "skills",
+        "visual"
+      ]
+    },
+    {
+      "name": "Visual Comparison - UK",
+      "source_name": "Visual Comparison - UK",
+      "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "comparison",
+        "knowledge",
+        "skills",
+        "uk",
+        "visual"
+      ]
+    },
+    {
+      "name": "Visual Comparison - US",
+      "source_name": "Visual Comparison - US",
+      "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "comparison",
+        "knowledge",
+        "skills",
+        "us",
+        "visual"
+      ]
+    },
+    {
+      "name": "VLSI and Embedded Systems (New)",
+      "source_name": "VLSI and Embedded Systems (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "embedded",
+        "knowledge",
+        "new",
+        "skills",
+        "systems",
+        "vlsi"
+      ]
+    },
+    {
+      "name": "What Is The Value - US",
+      "source_name": "What Is The Value - US",
+      "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "5",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "is",
+        "knowledge",
+        "skills",
+        "the",
+        "us",
+        "value",
+        "what"
+      ]
+    },
+    {
+      "name": "Workplace Administration Skills (New)",
+      "source_name": "Workplace Administration Skills (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "12",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "administration",
+        "knowledge",
+        "new",
+        "skills",
+        "workplace"
+      ]
+    },
+    {
+      "name": "Workplace Health and Safety (New)",
+      "source_name": "Workplace Health and Safety (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "and",
+        "dependability",
+        "health",
+        "industrial",
+        "knowledge",
+        "manufacturing",
+        "new",
+        "plant",
+        "safety",
+        "skills",
+        "workplace"
+      ]
+    },
+    {
+      "name": "WriteX - Email Writing (Customer Service) (New)",
+      "source_name": "WriteX - Email Writing (Customer Service) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "15",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "center",
+        "contact",
+        "customer",
+        "email",
+        "new",
+        "service",
+        "simulation",
+        "support",
+        "writex",
+        "writing"
+      ]
+    },
+    {
+      "name": "WriteX - Email Writing (Managerial) (New)",
+      "source_name": "WriteX - Email Writing (Managerial) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+      "test_type": "S",
+      "type_codes": [
+        "S"
+      ],
+      "duration": "15",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "email",
+        "managerial",
+        "new",
+        "simulation",
+        "writex",
+        "writing"
+      ]
+    },
+    {
+      "name": "WriteX - Email Writing (Sales) (New)",
+      "source_name": "WriteX - Email Writing (Sales) (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "15",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "account",
+        "commercial",
+        "email",
+        "new",
+        "sales",
+        "selling",
+        "writex",
+        "writing"
+      ]
+    },
+    {
+      "name": "Written English v1",
+      "source_name": "Written English v1",
+      "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "30",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "english",
+        "knowledge",
+        "skills",
+        "v1",
+        "written"
+      ]
+    },
+    {
+      "name": "Written Spanish",
+      "source_name": "Written Spanish",
+      "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "22",
+      "remote_testing": true,
+      "adaptive": true,
+      "keywords": [
+        "knowledge",
+        "skills",
+        "spanish",
+        "written"
+      ]
+    },
+    {
+      "name": "Zabbix (New)",
+      "source_name": "Zabbix (New)",
+      "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+      "test_type": "K",
+      "type_codes": [
+        "K"
+      ],
+      "duration": "9",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "knowledge",
+        "new",
+        "skills",
+        "zabbix"
+      ]
+    },
+    {
+      "name": "360 Digital Report",
+      "source_name": "360 Digital Report",
+      "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+      "test_type": "D",
+      "type_codes": [
+        "D"
+      ],
+      "duration": "",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "360",
+        "digital",
+        "report"
+      ]
+    },
+    {
+      "name": "360\u00b0 Multi-Rater Feedback System (MFS)",
+      "source_name": "360\u00b0 Multi-Rater Feedback System (MFS)",
+      "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+      "test_type": "",
+      "type_codes": [],
+      "duration": "Untimed",
+      "remote_testing": true,
+      "adaptive": false,
+      "keywords": [
+        "360",
+        "feedback",
+        "mfs",
+        "multi",
+        "rater",
+        "system"
+      ]
+    }
+  ]
+}
